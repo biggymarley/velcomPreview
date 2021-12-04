@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/velcomPreview/static/css/main.64c790c1.chunk.css",
+    "main.js": "/velcomPreview/static/js/main.7c0e643c.chunk.js",
+    "main.js.map": "/velcomPreview/static/js/main.7c0e643c.chunk.js.map",
+    "runtime-main.js": "/velcomPreview/static/js/runtime-main.3e00e38c.js",
+    "runtime-main.js.map": "/velcomPreview/static/js/runtime-main.3e00e38c.js.map",
+    "static/js/2.4abe99be.chunk.js": "/velcomPreview/static/js/2.4abe99be.chunk.js",
+    "static/js/2.4abe99be.chunk.js.map": "/velcomPreview/static/js/2.4abe99be.chunk.js.map",
+    "static/js/3.7aaca8eb.chunk.js": "/velcomPreview/static/js/3.7aaca8eb.chunk.js",
+    "static/js/3.7aaca8eb.chunk.js.map": "/velcomPreview/static/js/3.7aaca8eb.chunk.js.map",
+    "index.html": "/velcomPreview/index.html",
+    "static/css/main.64c790c1.chunk.css.map": "/velcomPreview/static/css/main.64c790c1.chunk.css.map",
+    "static/js/2.4abe99be.chunk.js.LICENSE.txt": "/velcomPreview/static/js/2.4abe99be.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/velcomPreview/static/media/GothamMedium_1.0a910c0b.ttf",
+    "static/media/Lphone.a8c5bf06.png": "/velcomPreview/static/media/Lphone.a8c5bf06.png",
+    "static/media/Rphone.b9456f71.png": "/velcomPreview/static/media/Rphone.b9456f71.png",
+    "static/media/gdpr.03b04bf9.png": "/velcomPreview/static/media/gdpr.03b04bf9.png",
+    "static/media/image.9e7c45a0.webp": "/velcomPreview/static/media/image.9e7c45a0.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e00e38c.js",
+    "static/js/2.4abe99be.chunk.js",
+    "static/css/main.64c790c1.chunk.css",
+    "static/js/main.7c0e643c.chunk.js"
+  ]
+}
